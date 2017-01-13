@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">BMI Meter</string>
+    <string name="labelCabecera">Por favor, indroduzca sus parámetros corporales</string>
+    <string name="labelAltura">Altura</string>
+    <string name="labelPeso">Peso</string>
+    <string name="btnCalcular">Calcular</string>
+
+    <string name="respDesnutrido">Desnutrido</string>
+    <string name="respBajoPeso">Bajo Peso</string>
+    <string name="respNormal">Normal</string>
+    <string name="respSobrePeso">Sobrepeso</string>
+    <string name="respObeso">Obeso</string>
+    <string name="respError">Lo sentimos, los datos introducidos no son correctos.</string>
+</resources>

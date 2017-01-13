@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="respError">Siamo spiacenti, siamo entrati i dati siano corretti</string>
+    <string name="btnCalcular">Calcolare</string>
+    <string name="labelAltura">Altezza</string>
+    <string name="labelCabecera">Si prega di indroduzca i parametri del corpo</string>
+    <string name="labelPeso">Peso</string>
+    <string name="respBajoPeso">Basso Peso</string>
+    <string name="respDesnutrido">Denutrito</string>
+    <string name="respNormal">Normale</string>
+    <string name="respObeso">Obeso</string>
+    <string name="respSobrePeso">Sovrappeso</string>
+</resources>
